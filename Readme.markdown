@@ -1,4 +1,4 @@
-# The Official Programmers Force iOS Code standard Guide (Swift).
+# iOS Code standard Guide (Swift).
 
 Our overarching goals are clarity, consistency and brevity, in that order.
 
@@ -32,7 +32,7 @@ Strive to make your code compile without warnings. This rule informs many style 
 
 ## Organization and Bundle Identifier
 
-Where an Xcode project is involved, the organization should be set to `Programmers Force` and the Bundle Identifier set to `com.programmersforce.ProjectName` where `ProjectName` is the name of the project.
+Where an Xcode project is involved, the organization should be set to `Organisation Name` and the Bundle Identifier set to `com.organisationName.ProjectName` where `ProjectName` is the name of the project.
 
 ![Xcode Project settings](screens/project_settings.png)
 
